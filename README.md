@@ -1,1 +1,2 @@
-# DZ-MIREA
+# JavaMirea
+Completed practical and laboratory work👋
